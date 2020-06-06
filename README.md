@@ -15,11 +15,11 @@ C:/...>npm install
 C:/...>npm start
 ```
 
-The –g parameter makes the installation be global and accesible accesible desde cualquier lugar.
+The –g parameter makes the installation global and accessible from any directory.
 
 ## Usage
 
-Finalmente para acceder a la aplicación abrimos nuestro navegador web favorito y accedemos a la siguiente URL:
+Finally, para acceder a la aplicación abrimos nuestro navegador web favorito y accedemos a la siguiente URL:
 
 [http://localhost:3000/](http://localhost:3000/)
 
